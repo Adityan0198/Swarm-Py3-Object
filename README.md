@@ -1,3 +1,4 @@
 # Swarm-Py3-Object
-Implementation of bot as a python object
-Issue with dest_point seems to be floating point error
+Implementation of bot as a python object  
+Issue with dest_point seems to be floating point error  
+ipynb contains example, use bot.py as module
